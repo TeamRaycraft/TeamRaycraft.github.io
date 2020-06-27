@@ -88,3 +88,8 @@ body {
     margin-top: 7rem;
   }
 }
+
+.icon {
+  height: 100px;
+  width: 100px
+}
